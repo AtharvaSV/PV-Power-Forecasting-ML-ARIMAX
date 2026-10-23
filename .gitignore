@@ -1,0 +1,15 @@
+# Data (download from PVOD, see README)
+*.csv
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*_venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
